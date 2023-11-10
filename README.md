@@ -10,7 +10,7 @@ A simple web application built with React for converting currencies.
 
 ## Demo
 
-**Link** : 
+**Link** : https://currency-converter-nine-iota.vercel.app/
 
 ## 📋 Usage
 
