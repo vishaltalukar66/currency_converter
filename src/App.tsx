@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import currency from './assets/currency.jpg'
+
 import { InputCard } from './components/InputCard'
 
 function App() {
